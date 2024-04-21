@@ -9,6 +9,8 @@ Maven 3.9, Java 21, npm 8.2^, Node 20.12^, MySQL
 
 # Installation
 
+Git clone this project
+
 ## Client application
 
 ```bash
