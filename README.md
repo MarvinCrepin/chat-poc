@@ -31,7 +31,6 @@ Before starting the API, you have to change credentials of database in applicati
 
 ```
 spring.datasource.url=jdbc:mysql://yourip:port/database_name
-spring.datasource.url=jdbc:mysql://yourip:port/database_name
 spring.datasource.username=YOURUSERNAME
 spring.datasource.password=YOURPASSWORD
 ```
