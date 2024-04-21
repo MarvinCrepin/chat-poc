@@ -51,8 +51,7 @@ CREATE TABLE chat_room (
     name VARCHAR(255),
     start_date DATETIME,
     end_date DATETIME,
-    user_id INT,
-    FOREIGN KEY (user_id) REFERENCES user(id)
+    user_id INT
 );
 
 CREATE TABLE payment (
